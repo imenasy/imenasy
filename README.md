@@ -1,7 +1,6 @@
-markdown
 # Sylvain Imena | Cybersecurity, Risk & Compliance Operations
 
-Executive-level Information Security Operations Leader and Enterprise Architect with over 8 years of hands-on and supervisory experience defending tier-one commercial banking platforms, national payment switches (RIPPS, RNDPS), and public sector infrastructure in Rwanda.
+Executive-level Information Security Operations Leader and Enterprise Architect with 8+ years of hands-on and supervisory experience defending tier-one commercial banking platforms, national payment switches (RIPPS, RNDPS), and public-sector infrastructure in Rwanda.
 
 ### Core Focus Areas
 - **SOC & Detection Engineering:** 24/7 SecOps, SIEM/SOAR/XDR analytics (Exabeam, LogRhythm, CrowdStrike), MITRE ATT&CK banking rules.
